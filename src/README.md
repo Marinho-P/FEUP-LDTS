@@ -2,7 +2,7 @@
 ## Game Description
 In this puzzle game, you must navigate through dangerous caves and get to the end of the level. This seems simple but you **must** be careful because whenever you step off an unstable tile it collapses leaving a hole to the hot steaming lava below.
 
-This project was developed by _Sérgio Nossa_ (*up202206856@fe.up.pt*), _Pedro Marinho_ (*up202206854@fe.up.pt*) and Rodrigo Leite (*up202205322@fe.up.pt*).
+This project was developed by _Sérgio Nossa_ (*up202206856@fe.up.pt*) and _Pedro Marinho_ (*up202206854@fe.up.pt*).
 
 
 For a more detailed version of this description click [here](docs/README.md).
