@@ -135,9 +135,8 @@ All known code-smells were eliminated.
 
 ## Self evaluation
 
-- Sérgio Nossa: 44.5%
-- Pedro Marinho: 44.5%
-- Rodrigo Leite: 1.0%
+- Sérgio Nossa: 50%
+- Pedro Marinho: 50%
 
 
 
